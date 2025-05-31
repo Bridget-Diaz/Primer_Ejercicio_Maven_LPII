@@ -1,0 +1,20 @@
+INDEX VERSION 1.134+C:\Users\piero\OneDrive\Escritorio\LP2_Clases\Sesion_02\Ejercicio1_Maven\.metadata\.plugins\org.eclipse.jdt.core
+610255111.index
+2568095977.index
+315464014.index
+3227044536.index
+3726506438.index
+1551959237.index
+985204165.index
+1906969241.index
+1865797976.index
+1754558042.index
+3034762172.index
+2749604672.index
+3954139092.index
+2725912538.index
+1671448902.index
+1301767488.index
+2433090534.index
+1338459618.index
+903617489.index
